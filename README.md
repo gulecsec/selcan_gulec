@@ -11,5 +11,5 @@
   
 <h3 align="center">Recent projects :high_brightness:</h3>
 
->- [https://jimhouserock-capstone-project-diegachatbot--capstone-app-qnoy2d.streamlit.app/](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Simply get together<br>
+>- [Diega](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Simply get together<br>
 
