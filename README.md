@@ -18,6 +18,6 @@
 <h3 align="center">You can contact me through :point_down:</h2>
 <p align="center">
   
-<a align="center"><href="https://www.linkedin.com/in/sgulec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a align="center"><align="center":href="https://www.linkedin.com/in/sgulec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:selcan.gulec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
