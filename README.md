@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">You can contact me through:</h2>
+<h3 align="center">You can contact me through :point_down:</h2>
 <p align="center">
   
 <a href="https://www.linkedin.com/in/sgulec/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
