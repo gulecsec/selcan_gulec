@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <p>
   
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+<a href=https://github-readme-stats.vercel.app/api/top-langs/?username={gulecsec}>
   
 <h3 align="left">:checkered_flag: Recent projects 🎓</h3>
 
