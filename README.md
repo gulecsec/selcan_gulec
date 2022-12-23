@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to my space :sparkles:</h3>
 
-# **Acquainting myself with**
+# **Acquainting myself with:**
 <p>
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -13,3 +13,5 @@
 
 >- [Diega ChatBot](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Web Assistant for Le Wagon Mexico, Final Project<br>
 
+<h3 align="center">You can contact me through:</h2>
+<p align="center">
