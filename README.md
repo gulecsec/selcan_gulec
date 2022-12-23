@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my space :sparkles:</h3>
+<h1 align="center">Welcome to my space :sparkles:</h1>
 
 ## **Acquainting myself with :briefcase:**
 <p>
