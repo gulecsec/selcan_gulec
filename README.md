@@ -9,4 +9,4 @@
 <p>
 
   
-<h3 align="center">Recent projects :sparkles:</h3>
+<h3 align="center">Recent projects :high_brightness:</h3>
