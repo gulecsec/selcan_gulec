@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <p>
   
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+  
 <h3 align="left">:checkered_flag: Recent projects 🎓</h3>
 
 >- [Diega ChatBot](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Web Assistant for Le Wagon Mexico, Final Project<br>
