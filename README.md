@@ -11,5 +11,5 @@
   
 <h3 align="center">Recent projects :high_brightness:</h3>
 
->- [Diega](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Simply get together<br>
+>- [Diega ChatBot](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Web Assistant for Le Wagon Mexico, Final Project<br>
 
