@@ -14,15 +14,15 @@
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <p>
 
-  
+---
+
 <h3 align="left">:checkered_flag: Recent projects 🎓</h3>
 
 >- [Diega ChatBot](https://github.com/jimhouserock/Capstone_Project_DiegaChatBot_v2) | Web Assistant for Le Wagon Mexico, Final Project<br>
 
 <p>
 
-
-
+---
 
 <h3 align="left">You can contact me through :point_down:</h2>
   
